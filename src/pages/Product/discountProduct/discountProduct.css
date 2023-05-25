@@ -1,0 +1,36 @@
+.col-md-3.discount {
+    width: 20% !important;
+}
+
+.product.discount {
+    background: white;
+    margin: 10px 0px;
+}
+
+.product-img.discount {
+    min-height: 157px !important;
+    /* background-image: url("https://images.fpt.shop/unsafe/fit-in/270x210/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/12/29/638079543819330198_frame-cate-270x210.png"); */
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 100% 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.product .product-img.discount>img {
+    width: 98%;
+    max-height: 100%;
+}
+
+.product-label.discount {
+    top: 25px !important;
+}
+
+/* .ant-modal-mask {
+    z-index: -1 !important;
+} */
+
+/* .ant-modal-wrap {
+    z-index: 20 !important;
+} */
+

@@ -1,0 +1,82 @@
+.checkout {
+    width: 80%;
+    margin: 12px auto !important;
+    border: 1px solid rgb(231, 231, 231);
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #c2c2c2;
+}
+
+.ck-content {
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin: 3% auto !important;
+    border: 1px solid rgb(231, 231, 231);
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #c2c2c2;
+}
+
+.form-info {
+    width: 80%;
+}
+
+.form-info>div {
+    display: flex;
+    width: 100%;
+    margin: 1%;
+    justify-content: space-around;
+}
+
+.form-info>div>label {
+    width: 20%;
+    font-size: 12px;
+    font-weight: bold;
+    margin-top: 2%;
+}
+
+.form-info>div>input {
+    width: 70%;
+}
+
+
+input.ip-rdo {
+    width: 10px;
+    padding: 0 !important;
+}
+
+.form-htgh>div>label {
+    text-align: center;
+    font-size: 12px;
+    font-weight: bold;
+    margin: 2%;
+}
+
+.content-right {
+    width: 100%;
+    padding: 2%;
+    margin: 4.5% auto !important;
+    border: 1px solid rgb(231, 231, 231);
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #c2c2c2;
+}
+
+.ip-sale {
+    width: 60%;
+    height: 40px;
+}
+
+.btn-sale {
+    width: 8rem;
+    height: 35px;
+    border-radius: 20px !important;
+    margin-left: 10%;
+}
+
+.btn-ck {
+    border-radius: 20px !important;
+}
+
+.radio-ip {
+    border-radius: 20px !important;
+    height: 35px;
+    font-size: 14px !important;
+}

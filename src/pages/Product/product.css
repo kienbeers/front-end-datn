@@ -1,0 +1,16 @@
+.select {
+    border:"1px solid #ced4da";
+    height: "35px"
+}
+.a:hover {
+    border: none;
+    box-shadow: none;
+}
+
+#inputTag input{
+    display: none;
+}
+
+#inputTag label{
+    cursor: pointer;
+}

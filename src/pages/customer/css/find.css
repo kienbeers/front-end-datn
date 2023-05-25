@@ -1,0 +1,30 @@
+.swiper.swiper-initialized.swiper-horizontal.swiper-pointer-events.swiper-free-mode.mySwiper {
+    height: 100px !important;
+}
+
+.swiper-pagination .swiper-pagination-clickable .swiper-pagination-bullets .swiper-pagination-horizontal {
+    top: 70%
+}
+
+h6 {
+    font-size: 14px !important;
+}
+
+.categoryFind {
+    padding: 20px 0px;
+}
+
+.categoryFind:hover {
+    box-shadow: 0 0 10px 0 #7f7e7e;
+    border-radius: 4px;
+}
+
+.bg-image.hover-zoom {
+    transition: transform .5s;
+}
+
+.bg-image.hover-zoom:hover {
+    -ms-transform: scale(1);
+    -webkit-transform: scale(1);
+    transform: scale(1.2);
+}

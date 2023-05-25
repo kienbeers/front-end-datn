@@ -1,0 +1,97 @@
+.ant-spin-nested-loading .ant-spin-container .ant-pagination.ant-table-pagination.ant-table-pagination-right .ant-pagination-item
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* .ant-modal-wrap .ant-modal {
+    max-width: max-content !important;
+} */
+
+.ant-picker {
+    width: 100%;
+}
+
+.ant-select.ant-select-single.ant-select-allow-clear.ant-select-show-arrow.ant-select-show-search {
+    width: 100% !important;
+}
+
+.export.pdf {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+}
+
+.order {
+    padding: 50px !important;
+    background-image: url("../../../public/logoKingLap.png");
+    background-repeat: no-repeat;
+    background-size: 200px 80px;
+}
+
+/* .order {
+    
+} */
+
+.title {
+    text-align: center;
+    margin-top: 0%;
+}
+
+/* .title > p {
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 10px;
+    margin: 20px;
+} */
+
+.title > h1 {
+    font-size: 55px;
+    font-weight: 600;
+    margin-bottom: 40px;
+}
+
+.content > h5 {
+    font-size: 18px;
+    font-weight: 500;
+    color: black;
+}
+
+.ant-modal-body {
+    padding: 15px 25px !important;
+    width: 100%;
+}
+
+.ant-modal-content {
+    max-width: 1300px;
+}
+
+.ant-modal-body > button {
+    border-radius: 25px;
+    float: right;
+    padding: 10px 30px;
+}
+
+.table {
+    border: 1px solid;
+}
+
+.thao_tac {
+    display: flex;
+    justify-content: space-between;
+}
+
+.thao_tac > span > svg {
+    font-size: 14px;
+}
+
+.qrcode {
+    position: absolute;
+    right: 5%;
+    top: 5%;
+}
+
+.print {
+    margin-left: 670px;
+}

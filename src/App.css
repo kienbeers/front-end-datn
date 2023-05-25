@@ -1,0 +1,118 @@
+::-webkit-scrollbar {
+  width: 6px;
+  height: 15px;
+}
+
+
+#components-layout-demo-side .logo {
+  height: 32px;
+  margin: 16px;
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.site-layout .site-layout-background {
+  /* background: #fff; */
+}
+
+
+.ant-layout-sider {
+  /* box-shadow: 4px 0px 4px grey */
+}
+
+
+.ant-layout .site-layout .ant-layout-header .site-layout-background {
+  /* box-shadow: 0px 0px 10px  gray; */
+  box-shadow: 0px 0px 6px grey
+}
+
+.logo {
+  display: block;
+  height: 120px;
+  width: 100%;
+}
+
+.logo-content {
+  width: 100%;
+  min-height: 60%;
+}
+
+.acc:hover {
+  color: #fff;
+  transition: all 0.2s ease;
+}
+
+.acc {
+  color: rgb(159, 159, 159);
+  margin: 0;
+  display: block;
+  font-size: 16px;
+  text-decoration: none;
+}
+
+.ant-pagination-item a {
+  display: inline !important;
+}
+
+.ant-menu-title-content {
+  font-size: 14px !important;
+}
+
+.ant-tabs {
+  font-size: 14px;
+}
+
+.ant-select-selection-item {
+  font-size: 14px;
+}
+
+input {
+  background-color: #fff;
+  padding: 4px 15px;
+  border: 1px solid #d9d9d9;
+
+}
+
+input:focus-visible {
+  outline: none;
+}
+
+.dropdown {
+  border: 1px solid #d9d9d9;
+}
+
+.dropdown .dropdown-row {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+
+  display: block;
+}
+
+.dropdown .dropdown-row:hover {
+  background-color: #d9d9d9;
+}
+
+body {
+  font-family: sans-serif !important;
+}
+
+.ant-modal {
+  width: auto;
+}
+
+.ant-modal-content {
+  margin: auto;
+}
+
+.ant-layout-content {
+  height: 550px;
+  overflow-x: hidden;
+  overflow-y: auto
+}
+
+.anticon.anticon-unlock,
+.anticon.anticon-lock,
+.anticon.anticon-edit,
+.anticon.anticon-delete {
+  font-size: 20px;
+}

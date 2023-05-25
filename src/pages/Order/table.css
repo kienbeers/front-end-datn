@@ -1,0 +1,36 @@
+.btn-submit {
+    text-align: center;
+}
+
+.title {
+    text-align: center;
+}
+
+.btn-search {
+    height: 38px;
+    position: relative;
+}
+
+.timk {
+    position: absolute;
+   margin-left: 43%;
+}
+
+.dropdown-row {
+    cursor: pointer;
+    text-align: start;
+    margin: 2px 0;
+  }
+
+  .dropdown {
+    background-color: white;
+    display: block;
+    flex-direction: column;
+    border: 1px solid gray;
+  }
+
+  #create {
+    margin-left: 316px;
+    width: 150px;
+    margin-top: 0px;
+}

@@ -1,0 +1,11 @@
+.ant-modal-footer {
+    /* display: none; */
+    background-color: red;
+}
+#create {
+    margin-left: 250px;
+    width: 150px;
+    margin-bottom: 20px;
+    margin-top: 0px;
+ 
+}
